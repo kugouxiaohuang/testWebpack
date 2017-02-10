@@ -1,0 +1,1 @@
+document.write("<h2>fighting,my baby!</h2>");
